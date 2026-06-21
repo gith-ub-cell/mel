@@ -1,5 +1,5 @@
 ---
-name: MLMskill
+name: Marx LM
 description: 马列毛主义综合分析技能 —— 涵盖马克思主义哲学（辩证唯物论、认识论、唯物史观）、政治经济学（剩余价值理论、资本积累）、科学社会主义（国家与革命、无产阶级专政、共产主义）、批判方法论（21种当代思潮批判）、实践诊断工具。适用于理论分析、思潮批判、项目诊断、阶级分析、政治经济学批判等场景。Marxism-Leninism-Maoism comprehensive analysis skill.
 ---
 
