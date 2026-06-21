@@ -1,6 +1,6 @@
 ---
-name: marx
-description: Use when analyzing research, engineering, project, debugging, retrospective, or organizational problems through a Marxist philosophy lens. Trigger on terms like primary contradiction, root cause, practice plan, retrospective, stage, systems impact, objective conditions, GitHub stars, adoption, 主要矛盾, 根本原因, 实践方案, 复盘, or when work is stalled and needs phenomenon-versus-essence diagnosis.
+name: MLMskill
+description: 马列毛主义综合分析技能 —— 涵盖马克思主义哲学（辩证唯物论、认识论、唯物史观）、政治经济学（剩余价值理论、资本积累）、科学社会主义（国家与革命、无产阶级专政、共产主义）、批判方法论（21种当代思潮批判）、实践诊断工具。适用于理论分析、思潮批判、项目诊断、阶级分析、政治经济学批判等场景。Marxism-Leninism-Maoism comprehensive analysis skill.
 ---
 
 # Marx Practice
@@ -199,6 +199,13 @@ Use concrete bullets. Prefer filenames, commands, observed repo facts, and measu
 - Architecture/process change -> evidence pass + systems relationships.
 - Team/process diagnosis -> evidence pass + historical structure.
 - Retrospective -> practice -> knowledge -> next practice.
+- Ideology critique / 思潮批判 -> `references/critique-methodology.md` + `references/classic-citations.md`.
+- Gender/feminism analysis -> `references/critique-methodology.md` §2.11 + `references/historical-materialism.md` §八 (alienation).
+- "Human nature" / biological determinism -> `references/critique-methodology.md` §2.12 + `references/dialectical-materialism.md`.
+- 内卷 / 躺平 / involution -> `references/critique-methodology.md` §2.14 + `references/political-economy.md` (capital accumulation).
+- Political economy / exploitation analysis -> `references/political-economy.md`.
+- Revolution / state / class struggle -> `references/scientific-socialism.md`.
+- 阶级分析 / class analysis -> `references/historical-materialism.md` §四 + §十.
 
 ## Anti-patterns
 
@@ -218,7 +225,18 @@ Do not:
 
 Read only what is needed:
 
-- `references/dialectical-materialism.md`
-- `references/epistemology.md`
-- `references/historical-materialism.md`
-- `references/practice-playbook.md`
+**哲学与认识工具**：
+- `references/dialectical-materialism.md` —— 辩证唯物论与唯物辩证法（含批判性与革命性维度）
+- `references/epistemology.md` —— 认识论（含对教条主义、主观主义、不可知论的批判）
+- `references/historical-materialism.md` —— 唯物史观（含异化批判、意识形态批判、阶级分析）
+- `references/critique-methodology.md` —— 批判方法论（含对当今十大思潮的马克思主义批判）
+
+**政治经济学**：
+- `references/political-economy.md` —— 马克思主义政治经济学（商品、价值、剩余价值、资本积累、利润率下降、当代批判议题）
+
+**科学社会主义**：
+- `references/scientific-socialism.md` —— 科学社会主义（从空想到科学、国家与革命、无产阶级专政、两个阶段、政党理论、国际主义）
+
+**实践工具**：
+- `references/practice-playbook.md` —— 实践映射手册（诊断工具与场景模板）
+- `references/classic-citations.md` —— 经典引文汇编（按主题整理的经典论述）
