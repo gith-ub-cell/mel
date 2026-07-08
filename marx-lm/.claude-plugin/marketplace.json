@@ -1,0 +1,15 @@
+{
+  "name": "marx-lm-marketplace",
+  "description": "Marxism-Leninism-Maoism comprehensive analysis skill for Claude Code. Covers dialectical materialism, political economy, scientific socialism, ideology critique, and practice diagnosis.",
+  "owner": {
+    "name": "gith-ub-cell"
+  },
+  "plugins": [
+    {
+      "name": "marx-lm",
+      "description": "马列毛主义综合分析技能。将马克思主义哲学、政治经济学、科学社会主义转化为可操作的项目诊断、矛盾分析、阶级分析和思潮批判工具。含35部经典文献提要与21种当代思潮批判。",
+      "version": "1.0.0",
+      "source": "https://github.com/gith-ub-cell/mel"
+    }
+  ]
+}

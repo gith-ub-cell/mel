@@ -1,0 +1,23 @@
+{
+  "name": "marx-lm",
+  "version": "1.0.0",
+  "description": "马列毛主义综合分析技能 —— 涵盖马克思主义哲学、政治经济学、科学社会主义、批判方法论、实践诊断工具与35部经典文献提要。Marxism-Leninism-Maoism comprehensive analysis skill.",
+  "author": {
+    "name": "gith-ub-cell"
+  },
+  "homepage": "https://github.com/gith-ub-cell/mel",
+  "repository": "https://github.com/gith-ub-cell/mel",
+  "license": "MIT",
+  "keywords": [
+    "marxism",
+    "leninism",
+    "maoism",
+    "dialectical-materialism",
+    "political-economy",
+    "scientific-socialism",
+    "class-analysis",
+    "contradiction-analysis",
+    "ideology-critique",
+    "practice-diagnosis"
+  ]
+}
