@@ -203,6 +203,12 @@ The primary contradiction must be concrete:
 | Gender / feminism | `critique-methodology.md` §2.11 + `historical-materialism.md` §八 |
 | Human nature / biological determinism | `critique-methodology.md` §2.12 + `dialectical-materialism.md` |
 | 内卷 / 躺平 / involution | `critique-methodology.md` §2.14 + `political-economy.md` |
+| 消费主义 / consumerism | `critique-methodology.md` §2.22 + `political-economy.md` |
+| 商品拜物教 / 货币拜物教 / 资本拜物教 | `critique-methodology.md` §2.23 + `political-economy.md` §1.4, §6.4 |
+| 绿色资本主义 / 消费环保主义 | `critique-methodology.md` §2.24 + `political-economy.md` |
+| 教育焦虑 / 学历崇拜 / 知识付费 | `critique-methodology.md` §2.25 + `political-economy.md` |
+| "做自己" / 个人品牌 / 本真性 | `critique-methodology.md` §2.26 + §2.8 |
+| AI 末日论 / AI 乌托邦 | `critique-methodology.md` §2.27 + §2.1, §2.3 |
 | Political economy / exploitation | `political-economy.md` |
 | Revolution / state / class struggle | `scientific-socialism.md` |
 | 阶级分析 / class analysis | `historical-materialism.md` §四 + §十 |
@@ -274,4 +280,4 @@ Do **not**:
 
 | File | Content |
 |------|---------|
-| `references/canonical-literature.md` | 马恩列斯毛经典著作提要（27部核心文献，含主题、概念、适用场景、速查表） |
+| `references/canonical-literature.md` | 马恩列斯毛经典著作提要（104部核心文献，含主题、概念、适用场景、速查表） |
